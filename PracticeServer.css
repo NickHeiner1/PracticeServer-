@@ -1,0 +1,10 @@
+input[type="text"] {
+	margin-top: 15px;
+}
+
+input[type="submit"] {
+	margin-top: 15px;
+	border-radius: 10px;
+	outline: none;
+	cursor: pointer;
+}
